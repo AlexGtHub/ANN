@@ -26,6 +26,7 @@ Una **Red de Hopfield** es un tipo de red neuronal recurrente que funciona como 
 
 ### Tecnologías utilizadas
 
+![Python](https://img.shields.io/badge/Python-blue?style=for-the-badge&logo=python)
 ![NumPy](https://img.shields.io/badge/NumPy-blue?style=for-the-badge&logo=numpy)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-blue?style=for-the-badge)
 ![Jupyter](https://img.shields.io/badge/Jupyter-orange?style=for-the-badge&logo=jupyter)
